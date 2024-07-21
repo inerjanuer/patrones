@@ -6,7 +6,7 @@ public class Main {
     //      con el cual se puede identificar el tipo de producto y asi agregar validaciones en los
     //      estados del pedido.
     public static void main(String[] args) {
-        Product product = new ProductBeverage();
+        Product product = new ProductDessert();
         Pedido pedido = new Pedido(product);
         pedido.asignarEstado();
         pedido.asignarEstado();

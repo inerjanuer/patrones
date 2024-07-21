@@ -11,4 +11,9 @@ public class ProductFood implements Product {
     public String getProductName() {
         return "Food";
     }
+
+    @Override
+    public void preparar() {
+        System.out.println("Preparando la comida...");
+    }
 }

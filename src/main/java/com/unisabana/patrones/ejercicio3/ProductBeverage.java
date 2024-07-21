@@ -10,4 +10,9 @@ public class ProductBeverage implements Product {
     public String getProductName() {
         return "Beverage";
     }
+
+    @Override
+    public void preparar() {
+        System.out.println("Preparando la bebida...");
+    }
 }
