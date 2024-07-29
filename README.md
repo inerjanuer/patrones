@@ -12,4 +12,4 @@
 - Ejercicio 2: Patron de comportamiento observer
 - Ejercicio 3: Patrón de comportamiento State
 - Ejercicio 4: Patrón de comportamiento Command
-- Ejercicio 5:
+- Ejercicio 5: Patron Estructural Decorator

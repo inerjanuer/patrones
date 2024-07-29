@@ -1,5 +1,8 @@
 package com.unisabana.patrones.ejercicio2;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class MessageService {
     private List<Observer> observers;
 
