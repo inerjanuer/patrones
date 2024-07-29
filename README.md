@@ -9,7 +9,7 @@
 
 **Patrones usados**
 - Ejercicio 1: 
-- Ejercicio 2:
+- Ejercicio 2: Patron de comportamiento observer
 - Ejercicio 3: Patrón de comportamiento State
 - Ejercicio 4: Patrón de comportamiento Command
 - Ejercicio 5:
